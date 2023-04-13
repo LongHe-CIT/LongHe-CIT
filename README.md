@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=LongHe-CIT" /> </div>
+<div align="center"> <img src="https://metrics.lecoq.io/LongHe-CIT?template=classic&config.timezone=Asia%2FShanghai"> </div>
