@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=LongHe-CIT" /> -->
 <!-- <img src="https://metrics.lecoq.io/LongHe-CIT?template=classic&config.timezone=Asia%2FShanghai"> -->
-<img src="https://github-readme-stats.vercel.app/api?username=LongHe-CIT&show_icons=true&locale=en" alt="LongHe-CIT" />
+<img src="https://github-readme-stats.vercel.app/api?username=LongHe-CIT&show_icons=true&locale=en&amp;theme=gotham" alt="LongHe-CIT" />
